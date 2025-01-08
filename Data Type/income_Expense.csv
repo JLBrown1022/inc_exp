@@ -1,0 +1,12 @@
+User_ID,Date,Income_Source,Expense_Source,Category,Sub_Category,Paid_From,Paid_To,Amount,Vendor,Description
+,,,,,,,,,,
+0123456790,11/01/2023,Personal,Balance+,Banking+,Saving,,,"1,136.01",,
+0123456791,11/01/2023,Personal,Balance+,Banking+,Checking,,,0,,
+0123456790,11/01/2023,Employer,Income,Banking,Deposit,,Checking,738.55,My Employer,
+0123456790,11/01/2023,Business,Charge,Auto,Maintenance,Credit Card 001,,60.61,PZQ Maintenance Shop,
+0123456790,11/01/2023,Personal,Charge,Home,Grocery,Credit Card 001,,16.59,Major Super Market,
+0123456795,11/01/2023,Personal,Charge,Other,Meal/Restaurant,Credit Card 002,,5.39,Souther Food Restaurant,
+0123456796,11/01/2023,Personal,Transfer,Banking,Transfer,Checking,Delta Comm - Svng,738.55,,
+0123456797,11/02/2023,Personal,Transfer,Banking,Transfer,Savings,Checking,"1,298.18",,
+0123456790,11/02/2023,Personal,Payment,Credit Card,Payment,Checking,Credit Card 001,150,ABC Credit Company,
+0123456799,11/02/2023,Personal,Payment,Auto,Payment,Checking,Car Financer,165,XYZ Car Maker,
